@@ -1,0 +1,31 @@
+{
+  "$schema": "https://raw.githubusercontent.com/DocCLab/VersionedDocC/0.0.12/Schema/VersionedDocC.schema.json",
+  "schemaVersion": 1,
+  "documentationOnly": true,
+  "projectName": "swift-book",
+  "modulePath": "the-swift-programming-language",
+  "catalogPath": "TSPL.docc",
+  "hostingBasePath": "/swift-book",
+  "defaultVersion": "main",
+  "articleChanges": {
+    "enabled": true
+  },
+  "versions": [
+    {
+      "name": "main",
+      "ref": "HEAD",
+      "sourceRef": "main"
+    },
+    {
+      "name": "6.3",
+      "ref": "swift-6.3-fcs",
+      "sourceRef": "swift-6.3-fcs"
+    },
+    {
+      "name": "6.2.3",
+      "ref": "swift-6.2.3-fcs",
+      "sourceRef": "swift-6.2.3-fcs"
+    }
+  ],
+  "sourceRepository": "https://github.com/swiftlang/swift-book"
+}
