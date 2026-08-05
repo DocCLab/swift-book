@@ -46,7 +46,7 @@ jobs:
         shell: bash
 
       - name: Build versioned DocC site
-        uses: DocCLab/VersionedDocC@0.0.12
+        uses: DocCLab/VersionedDocC@0.0.13
         with:
           config: .vdc.json
 

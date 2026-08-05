@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/DocCLab/VersionedDocC/0.0.12/Schema/VersionedDocC.schema.json",
+  "$schema": "https://raw.githubusercontent.com/DocCLab/VersionedDocC/0.0.13/Schema/VersionedDocC.schema.json",
   "schemaVersion": 1,
   "documentationOnly": true,
   "projectName": "swift-book",
@@ -25,6 +25,52 @@
       "name": "6.2.3",
       "ref": "swift-6.2.3-fcs",
       "sourceRef": "swift-6.2.3-fcs"
+    },
+    {
+      "name": "6.2.1",
+      "ref": "swift-6.2.1-fcs",
+      "sourceRef": "swift-6.2.1-fcs"
+    },
+    {
+      "name": "6.2",
+      "ref": "swift-6.2-fcs",
+      "sourceRef": "swift-6.2-fcs"
+    },
+    {
+      "name": "6.1",
+      "ref": "swift-6.1-fcs",
+      "sourceRef": "swift-6.1-fcs"
+    },
+    {
+      "name": "6",
+      "ref": "swift-6-fcs",
+      "sourceRef": "swift-6-fcs"
+    },
+    {
+      "name": "5.10",
+      "ref": "swift-5.10-fcs",
+      "sourceRef": "swift-5.10-fcs"
+    },
+    {
+      "name": "5.9.2",
+      "ref": "swift-5.9.2-fcs",
+      "sourceRef": "swift-5.9.2-fcs"
+    },
+    {
+      "name": "5.9",
+      "ref": "swift-5.9-fcs",
+      "sourceRef": "swift-5.9-fcs"
+    },
+    {
+      "name": "5.8",
+      "ref": "swift-5.8-fcs",
+      "sourceRef": "swift-5.8-fcs"
+    },
+    {
+      "name": "5.7",
+      "ref": "swift-5.7-fcs",
+      "sourceRef": "swift-5.7-fcs",
+      "catalogPath": "Sources/TSPL/TSPL.docc"
     }
   ],
   "sourceRepository": "https://github.com/swiftlang/swift-book"
